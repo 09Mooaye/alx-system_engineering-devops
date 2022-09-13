@@ -8,3 +8,4 @@ echo "Displa content of current directory with long format, user group ID numeri
 echo "creates a directory in a directory"
 echo "move file from one directory to another"
 echo "delete the file"
+echo "delete the directory"
