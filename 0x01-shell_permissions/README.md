@@ -11,6 +11,7 @@ echo "adds no permission to user and owner except others user"
 echo "changes excution mode"
 echo "sets mode of file"
 echo "adds permission to all subdirectories"
-echo "creates directory with permission"
+echo "creates directory with permiss
+echo "changes owner and group"ion"
 echo "change group owner"
 echo "changes owner and group owner" 
