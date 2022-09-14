@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "Hello, World" "(Ôo)'\"
+echo "Hello, World"
+echo "display file etc/passwd"
