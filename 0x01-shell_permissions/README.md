@@ -14,4 +14,5 @@ echo "adds permission to all subdirectories"
 echo "creates directory with permiss
 echo "changes owner and group"ion"
 echo "change group owner"
-echo "changes owner and group owner" 
+echo "changes owner and group owner"
+echo "change filr hello to betty with conditions" 
